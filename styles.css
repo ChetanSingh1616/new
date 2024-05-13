@@ -1,0 +1,29 @@
+body {
+    background-color: bisque;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 600px;
+
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table-content {
+    margin: 0 auto;
+    width: 70%;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: greenyellow;
+}
